@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saipraveen
 - 👀 I’m interested in Coding, Movies and Reading
 - 🌱 I’m currently learning many a thing in coding
-- 💞️ I’m looking to collaborate on tech related stuff
 - 📫 You can reach me at ossp <dot> ctr <at> gmail <dot> com
 
 <!---
