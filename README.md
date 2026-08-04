@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saipraveen
 - 👀 I’m interested in Coding, Movies and Reading
 - 🌱 I’m currently learning many a thing in coding
-- 📫 You can reach me at ossp <dot> ctr <at> gmail <dot> com
+- 📫 You can reach me at saipraveen <at> oruganti <dot> dev
 
 <!---
 saipraveen/saipraveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
